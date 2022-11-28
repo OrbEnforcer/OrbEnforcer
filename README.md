@@ -1,9 +1,13 @@
-- 👋🏻 Hi, I’m Orb.
-- 👀 I like making rainmeter skins in my free time. Actually I should make time for my life from making skins.
-- 🌱 I’m currently learning Python and other languages but am always lazy to start any new projects.
-- 📫 I don't have any social account except Discord. ㅤㅤ   👇🏻
--                                                       @Orb#8837
-- ℹ️ If you reach out to me let me know you got my ID from here.
+- Hi there. I'm a noob currently working on **a rainmeter skin called Orbitron.**
+
+- Trying to learn **Python and plan to learn Lua and html too.**
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orbenforcer&show_icons=true&theme=onedark&title_color=9514ff&text_color=9514ff&locale=en" alt="orbenforcer" />
+<img align="right" alt="Coding" width="260" src="https://cdn.dribbble.com/users/185048/screenshots/4217863/celeste_dribbble.gif">
+</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orbenforcer&theme=dark" alt="orbenforcer" /></p>
+
 
 
 <!---
