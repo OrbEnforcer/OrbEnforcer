@@ -1,14 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%E6E6FA&size=18&vCenter=true&height=16&lines=Hello+mere+mortal%2C+I'm+Orb.;I+am+a+no+lifer.)
+![anime-computers-video-games](https://github.com/OrbEnforcer/C-Language/assets/108188721/908785f7-42f1-4e09-a6dc-83aa44ba9386)
 
-![orb-enforcer (2)](https://user-images.githubusercontent.com/108188721/205296865-3c4c3675-2204-439e-b53a-45960d044906.svg)
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orbenforcer&theme=onedark" alt="orbenforcer" /></p>
-
-
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OrbEnforcer&theme=catppuccin-mocha&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!---
 OrbEnforcer/OrbEnforcer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
