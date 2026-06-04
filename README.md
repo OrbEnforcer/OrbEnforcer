@@ -3,6 +3,11 @@
 <!---
 [![GitHub Streak](https://streak-stats.demolab.com?user=OrbEnforcer&theme=catppuccin-mocha&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 --->
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/OrbEnforcer)
+
+---
 
 ## Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -40,12 +45,6 @@
 ## IDEs/Editors
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-
-
-
-
 
 
 
